@@ -59,14 +59,14 @@ https://github.com/shashi-56572/Calculator
 </div>
 
 ---
+## 💻 What I'm Learning
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shashi-56572&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-56572&layout=compact&hide_border=true" height="170" />
+- 🌐 Web Development
+- ☕ Java
+- 💻 Software Development
+- 🧩 Problem Solving
+- 🚀 Building practical projects
+- 📚 Continuously learning new technologies
 
 </div>
 
