@@ -84,18 +84,21 @@ https://github.com/shashi-56572/Calculator
 
 ## 🐍 Contribution Snake
 
-> You can add the animated contribution snake later using a GitHub Action.
-
----
-
-## 🤝 Let's Connect
-
 <div align="center">
 
-⭐ **Thanks for visiting my profile!**
-
-<br><br>
-
-### ✨ Learn. Build. Improve. Repeat. 🚀
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shashi-56572/shashi-56572/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shashi-56572/shashi-56572/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/shashi-56572/shashi-56572/output/github-snake.svg"
+  />
+</picture>
 
 </div>
