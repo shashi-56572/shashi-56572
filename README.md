@@ -1,73 +1,101 @@
-# 👋 Hi, I'm Shashi Chouhan
+div align="center">
 
-### 💻 Developer \| 🎵 Flute Player \| 🚀 Tech Enthusiast
+# 👋 Hi, I'm **Shashi Chouhan**
 
-Welcome to my GitHub profile! I enjoy building projects, learning new
-technologies, and turning ideas into useful applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Web+Developer+%7C+Tech+Enthusiast;Learning+Machine+Learning+%F0%9F%A4%96;JavaScript+%7C+Java+%7C+Python;Flute+Player+%F0%9F%8E%B6;Learn.+Build.+Improve.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
 
-------------------------------------------------------------------------
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shashi-56572&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+---
 
 ## 🚀 About Me
 
--   💻 Interested in **Web Development, JavaScript & Machine Learning**
--   🌱 Always learning and improving my programming skills
--   🎵 Love playing **flute** and creating music
--   🛠️ Enjoy building practical projects
--   🎯 Goal: Keep learning, keep building, and become a better developer
+- 💻 I enjoy building **web projects** and learning new technologies.
+- 🌱 Currently improving my skills in **JavaScript, Java, Python & Machine Learning**.
+- 🤖 Interested in **AI, ML and practical applications of technology**.
+- 🎵 Outside coding, I love **playing flute** and creating music.
+- 🎯 My goal is simple: **keep learning and keep building.**
 
-------------------------------------------------------------------------
+---
 
-## 🧰 Skills & Technologies
+## 🧰 Tech Stack
 
-**Languages & Web** - HTML - CSS - JavaScript - Java - Python
+<div align="center">
 
-**Interests** - Machine Learning - Web Development - Data & AI - Problem
-Solving
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode&perline=8" />
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 ## 📌 Featured Project
 
 ### 🧮 Calculator
 
-A simple calculator built using:
+A simple and responsive calculator made with **HTML, CSS and JavaScript**.
 
-`HTML` • `CSS` • `JavaScript`
-
-🔗 **Live Project:**\
+**🌐 Live Demo:**  
 https://shashi-56572.github.io/Calculator/
 
-🔗 **Repository:**\
+**📂 GitHub Repository:**  
 https://github.com/shashi-56572/Calculator
 
-------------------------------------------------------------------------
+---
 
-## 🎵 Beyond Coding
+## 🎵 Coding + Music
 
-When I'm not coding, you'll probably find me playing the **flute** 🎶.
+<div align="center">
 
-I enjoy combining creativity with technology and continuously learning
-something new.
+🎶 **When I'm not coding, I'm probably playing the flute.** 🎶
 
-------------------------------------------------------------------------
+<br>
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Coding animation">
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=shashi-56572&show_icons=true&hide_border=true&rank_icon=github)
+<div align="center">
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-56572&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=shashi-56572&show_icons=true&hide_border=true&rank_icon=github" height="170" />
 
-------------------------------------------------------------------------
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-56572&layout=compact&hide_border=true" height="170" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shashi-56572&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+> You can add the animated contribution snake later using a GitHub Action.
+
+---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating, and working on
-interesting projects.
+<div align="center">
 
-⭐ If you like my projects, feel free to explore my repositories!
+⭐ **Thanks for visiting my profile!**
 
-------------------------------------------------------------------------
+<br><br>
 
-### ✨ Learn. Build. Improve. Repeat.
+### ✨ Learn. Build. Improve. Repeat. 🚀
+
+</div>
